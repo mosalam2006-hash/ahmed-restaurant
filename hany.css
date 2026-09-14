@@ -23,7 +23,7 @@ ul {
 
 /* Header & Navigation */
 .hero-section {
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://via.placeholder.com/1200x600');
     background-size: cover;
     background-position: center;
     height: 100vh;
