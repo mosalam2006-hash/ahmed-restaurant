@@ -1,4 +1,6 @@
-/* Reset & General Styles */
+selector{
+    property:value;
+}
 * {
     margin: 0;
     padding: 0;
@@ -21,7 +23,7 @@ ul {
 
 /* Header & Navigation */
 .hero-section {
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://via.placeholder.com/1200x600');
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url;
     background-size: cover;
     background-position: center;
     height: 100vh;
